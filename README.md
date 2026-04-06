@@ -96,7 +96,6 @@ This project demonstrates how phishing emails can be identified using basic anal
 
 **Sai Manikanta**
 B.Tech Cyber Security Student
-Aspiring SOC Analyst
 
 ---
 
